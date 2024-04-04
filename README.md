@@ -51,5 +51,13 @@ The Sign Language Detection System enhances accessibility for individuals with h
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1.Chronic Kidney Disease Detection Using Machine Learning Technique, Rama AlMomani;Ghada Al-Mustafa;Razan Zeidan;Hiam Alquran;Wan Azani Mustafa;Ahmed Alkhayyat; 2022 5th International Conference on Engineering Technology and its Applications (IICETA)
+ 
+2.Comparison of Machine Learning Algorithms for Predicting Chronic Kidney Disease, Nishin James; Jitendra Kaushik; 2022 2nd International Conference on Advance Computing and Innovative Technologies in Engineering (ICACITE)
+ 
+3.Chronic Kidney Disease Detection using Machine Learning Algorithms: A Sri Lankan Study, D. V. Dissanayake;S. Sobana;B. Yogarajah;R. Nagulan;
+
+4.Chronic Kidney Disease Detection using AdaBoosting Ensemble Method and KFold Cross Validation, N. Mohana Suganthi; Jemin V.M; P. Rama;E. Chandralekha, 2022 International Conference on Automation, Computing and Renewable Systems (ICACRS) 
+ 
+5.Chronic Kidney Disease Prediction Using Machine Learning Algorithms and the Important Attributes for the Detection; Garima Shukla;Gaurav Dhuriya;Sofia K Pillai;Aradhna Saini; 2023 IEEE IAS Global Conference on Emerging Technologies (GlobConET)
+ 
