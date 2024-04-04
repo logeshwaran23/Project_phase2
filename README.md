@@ -38,7 +38,7 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 ![Screenshot (16)](https://github.com/logeshwaran23/Project_phase2/assets/113624864/701908e3-922e-4c4d-8931-e185213a0f48)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+<img width="290" alt="Screenshot 2023-11-14 115612" src="https://github.com/logeshwaran23/Project_phase2/assets/113624864/b71ad9f2-d529-43c4-be23-16e1db19520a">
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
