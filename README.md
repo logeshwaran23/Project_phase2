@@ -27,7 +27,7 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![Picture1](https://github.com/logeshwaran23/Project_phase2/assets/113624864/2bb7e2a1-4604-4294-bee4-8c9333fd78b2)
 
 
 ## Output
