@@ -1,6 +1,5 @@
 ## Enhancing Chronic Kidney Disease Diagnosis through Efficient Machine learning based Classification Algorithms
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+Algorithms can assess the severity of existing CKD and predict how it might progress. This helps doctors tailor treatment plans to individual patients. Gradient Boosting is one algorithm explored for this.
 
 ## About
 Chronic Kidney Disease (CKD) is a widespread health issue with a significant impact
