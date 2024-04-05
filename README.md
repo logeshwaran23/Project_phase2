@@ -58,10 +58,9 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The utilization of efficient machine learning-based classification algorithms presents a promising avenue for enhancing chronic kidney disease (CKD) detection. Through rigorous experimentation and comparative analysis, we have identified the best-performing model for this task. This advancement holds significant implications for early diagnosis and intervention, potentially improving patient outcomes and reducing healthcare burdens associated with CKD.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+
 
 ## Articles published / References
 1.Chronic Kidney Disease Detection Using Machine Learning Technique, Rama AlMomani;Ghada Al-Mustafa;Razan Zeidan;Hiam Alquran;Wan Azani Mustafa;Ahmed Alkhayyat; 2022 5th International Conference on Engineering Technology and its Applications (IICETA)
