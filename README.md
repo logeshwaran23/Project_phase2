@@ -46,7 +46,7 @@ models for clinical applications.
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
+<!--Embed theutput picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
 
 ![Screenshot (16)](https://github.com/logeshwaran23/Project_phase2/assets/113624864/701908e3-922e-4c4d-8931-e185213a0f48)
